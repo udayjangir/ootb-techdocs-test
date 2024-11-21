@@ -1,0 +1,6 @@
+site_name: Testing OOTB Techdocs
+site_description: Tests the default techdocs setup 
+plugins:
+  - techdocs-core
+nav:
+  - Getting Started: index.md
